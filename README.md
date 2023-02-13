@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align ="center"> Hi there 👋 I'm Samjana! </h1>
 
-<!--
-**ZippoHashira/ZippoHashira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+<h3 align = "center"> I am a passionate Software Engineer and currently learning Python, SQL, HTML, CSS at HyperionDev. </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![anime](https://user-images.githubusercontent.com/121523004/218574077-091b9662-09b4-429d-bc29-1212a9bfbf54.jpeg)
+
+- 🔭 I’m open to work.
+- 🌱 I’m currently learning Python, SQL, Django, HTML, CSS.
+- 📫 How to reach me: **zipporah.sunuwar@gmail.com**
+
+<hr />
+
+### 💻 Tech Stack:
+**Python, SQL, Django, Bootstrap, HTML, CSS**
